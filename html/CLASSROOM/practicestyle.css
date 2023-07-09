@@ -1,0 +1,26 @@
+div{
+ text-transform: capitalize; 
+ height: 200px;  
+ width: 400px;
+ background-color: aqua;
+ border: 2px solid black;
+ justify-content: center;
+ transition-property: all; 
+ transition-duration: 2s; 
+  transition-timing-function: steps(5); 
+  transition-delay: 1s; 
+}
+
+div:hover{
+    background-color: brown;
+    font-size: 20px;
+    color: orange;
+    /* transform: rotate(45deg); */
+    /* transform: scale(2,1); */
+    transform: translate(250px , 200px);
+    
+}
+
+div:active{
+    background-color: blueviolet;
+}

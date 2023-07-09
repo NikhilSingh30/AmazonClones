@@ -1,0 +1,31 @@
+#navbar{
+    height: 250px;
+    width: 500px;
+    background-color: aqua;
+    display: flex;
+    border: 10px solid black;
+    list-style: none;
+    justify-content: space-between;
+}
+a{
+
+text-decoration: none; 
+ 
+}
+#nikhil{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: flex;
+    justify-content:center ;
+    text-align: center;
+    align-items: center;
+}
+#aditya{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border: 2px solid pink;
+
+}    

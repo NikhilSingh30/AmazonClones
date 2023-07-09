@@ -1,0 +1,261 @@
+*{
+    margin: 0px;
+    border: border-box;
+}
+.nav-bar{
+    height: 55px;
+    background-color: white;
+    color: black; display: flex;
+    align-items: center;
+   
+}
+.msg1{
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    font: 18px "Times New Roman", Georgia, serif;
+    width: 80%;
+}
+.msg1 p{
+    margin-right: 13px;
+}
+.msg2{
+   display: flex;
+    font: 18px "Times New Roman", Georgia, serif;
+  
+    align-items: center;
+}
+.msg2 p{
+    margin-right: 23px;
+}
+.add-img{
+    height: 700px;
+    background-image: url(hamburger.jpg);
+    background-size: cover;
+}
+.msg3{
+    height: 100px;
+    width: 273px;
+    color: black;
+    font: 36px "Playfair Display";
+    display: flex;
+    align-items: center;
+   position: absolute;
+   margin-top: 600px;
+   margin-left: 23px;
+}
+.msg3 p{
+    margin-right: 16px;
+   
+
+}
+.img-sec{
+    height: 700px;
+}
+.img-sec2{
+    height: 780px;
+    background-color: white;
+padding: 64px 0px;
+display: flex;
+justify-content: space-around;
+}
+.add-img2{
+height: 630px;
+background-image: url(tablesetting2.jpg);
+background-size: cover;
+width: 500px;
+margin-left: 140px;
+}
+.about-menu{
+    height: 535px;
+    width: 550px;
+    background-color: white;
+    padding: 12px 24px;
+    margin-right: 135px;
+}
+.about{
+    height: 55px;
+    width: 501px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about p{
+    color: #000000;
+    font: 36px "Playfair Display";
+    margin-right: 13px;
+}
+.since{
+    height: 27px;
+    width: 501px;
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.since p{
+    font: 21px "Playfair Display"; 
+    margin-right: 15px;
+}
+.para1{
+    height: 189px;
+    margin: 18px 0px;
+    color: #000000;
+    font: 21px "Times New Roman", Georgia, serif;
+}
+.para2{
+    width: 501px;
+    height: 135px;
+    color: #757575;
+    font: 21px "Times New Roman", Georgia, serif;
+    margin: 18px 0px;
+}
+.nikhil{
+    height: 904px;
+    width: 1100px;
+   margin-left: 280px;
+    display: flex;
+}
+.our{
+    width: 501px;
+    height: 54px;
+    margin: 10px 0px;
+    font: 36px "Playfair Display";
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.our p{
+    margin-right: 15px;
+}
+.para3{
+    height: 673px;
+    width: 550px;
+    padding: 12px 24px;
+}
+.bread{
+    height: 30px;
+    width: 501px;
+    margin: 10px 0px;
+    font: 20px "Playfair Display";
+    color: #000000;
+    display: flex;
+    align-items: center;
+    letter-spacing: 5px;
+}
+.bread p{
+    margin-right: 15px;
+}
+.a1{
+    width: 501px;
+    height: 22.5px;
+    color: #757575;
+    font: 15px "Times New Roman", Georgia, serif;
+
+}
+.a2{
+    width: 501px;
+    height: 30px;
+    font: 22px " Playfair Display";
+    margin: 10px 0px;
+    letter-spacing: 5px;
+}
+.a1 p{
+    margin: 15px 0px;
+}
+.menu-img{
+    width: 550px;
+    height: 775px;
+    padding: 12px 24px;
+    background-image: url(tablesetting.jpg);
+    background-size: cover;
+}
+.footer{
+    height: 750px;
+    width: 1100px;
+    padding: 0px 16px;
+}
+.conta{
+    width: 1068px;
+    height: 54px;
+    font: 18px " Playfair Display";
+    color: #000000;
+    margin: 10px 0px;
+}
+.conta h1{
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+.pa{
+    height: 45px;
+    width: 1068px;
+    margin: 15px 0px;
+}
+.pa p{
+    font: 18px "Times New Roman", Georgia, serif;
+}
+.pa1{
+    height: 27px;
+    width: 1068px;
+    font: 18px "Times New Roman", Georgia, serif;
+    color: #607d8b;
+    margin: 18px 0px;
+    font-weight: bolder;
+}
+.pa2{
+    height: 22.5px;
+    color: #000000;
+    font: 18px "Times New Roman", Georgia, serif;
+    margin: 15px 0px;
+}
+.form{
+    height: 353px;
+    width: 1068px;
+    color: #000000;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.fill-up{
+    height: 55.3px;
+    width: 1068px;
+    background-color: white;
+    padding: 8px 16px;
+}
+.input{
+    padding: 8px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    font: inherit;
+}
+.buttom{
+    width: 144px;
+    height: 38px;
+    font: 18px "Times New Roman", Georgia, serif;
+    margin: 16px 0px;
+    padding: 8px 16px;
+    background-color: #f1f1f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    border: none;
+}
+.footer{
+    margin-left: 240px;
+}
+.footer2{
+    height: 60px;
+    color: #000000;
+    background-color: #f1f1f1;
+    font: 18px "Times New Roman", Georgia, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
